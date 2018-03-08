@@ -7,7 +7,7 @@ length = int(input('[.]Password length?\n[.]'))
 
 f = open('password.txt','w')
 
-for i in range(times):
+apple apple
 	password = ''
 	for j in range(length):
 		password += random.choice(chars)
